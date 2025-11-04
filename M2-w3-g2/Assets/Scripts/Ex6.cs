@@ -29,7 +29,7 @@ public class Ex6 : MonoBehaviour
         }
         else
         {
-            Debug.Log("il nemico non ha una resistenza o debolezza al tipo di attaco, danni fatti " + baseDamange);
+            Debug.Log("il nemico non ha una resistenza o debolezza al tipo di attacco, danni fatti " + baseDamange);
         }
 
     }
